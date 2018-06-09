@@ -1,0 +1,2 @@
+# favorites
+My JavaScript Favorites
